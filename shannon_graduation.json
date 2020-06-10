@@ -1,0 +1,28 @@
+{
+    "author": "Andrew Meadows",
+    "mapsJSONVersion": "v1.1.0",
+    "comments": "On June 10th 2020, we will be watching the Yosemite High graduation livestream.",
+    "maps": [
+        {
+            "mapName": "Yosemite High 2020 Graduation Live Stream",
+            "mapImageSrc": "https://lh3.googleusercontent.com/pw/ACtC-3ecVmkfPE5HYxRbjRzg1noDKc35xjSmB2oKdQiaE4SAKqI4SYOJFhVL59k5Nx47oPim5-k6ilEeCP6t8MOu2U5Baf7H1m51WNOFt57nYQteMctvlV8ZfEFmp6QEAkTKfWTX__l6d_cGmpNEP8bgkbUN=s1427-no?authuser=0",
+            "mapLandmarks": [
+                {
+                    "name": "Watch Livestream",
+                    "positionSU": {
+                        "x": 15,
+                        "y": 15,
+                        "z": 0
+                    },
+                    "widthSU": 3,
+                    "heightSU": 4,
+                    "rotationDegrees": 0,
+                    "hexColor": "#1C00ff00",
+                    "textHexColor": "#FFFFFF",
+                    "href": "https://www.youtube.com/watch?v=lgRsbkLka-s",
+                    "imageHref": "https://lh3.googleusercontent.com/pw/ACtC-3duvFhQ2ndYeJKYC3eSE_cDQzb-ylRgoeKRw7YGx57x3NIlSKjRbHAiYWpeFpMJH2haFIOHhROOKBU0ZcG6lxG-jO2FMdzxf2TacKzD5tvptZh2gqtnb1dpnjE4YplRePVqmYwd8cVeUc3xhftoenY_=w299-h400-no?authuser=0"
+                }
+            ]
+        }
+    ]
+}
